@@ -2,5 +2,6 @@
   "dependencies":{
     "music-component":"jusolete/music-component"
   },
-  "element-collection":"element-collection"
+  "element-collection":"element-collection",
+  "license":"MIT"
 }
