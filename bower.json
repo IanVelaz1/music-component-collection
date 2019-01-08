@@ -1,4 +1,5 @@
-{"name": "music-component-collection",
+{
+  "name": "music-component-collection",
   "dependencies":{
     "music-component":"jusolete/music-component#1.0.0-alpha"
   },
