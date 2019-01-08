@@ -1,4 +1,6 @@
-"dependencies":{
-  "music-component":"jusolete/music-component"
-},
-“element-collection”
+{
+  "dependencies":{
+    "music-component":"jusolete/music-component"
+  },
+  "element-collection":"element-collection"
+}
