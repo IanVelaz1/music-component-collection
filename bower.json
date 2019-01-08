@@ -1,7 +1,7 @@
 {
   "name": "music-component-collection",
   "dependencies":{
-    "music-component":"jusolete/music-component#1.0.0-alpha"
+    "music-component":"jusolete/music-component#1.0.0"
   },
   "element-collection":"element-collection",
   "license":"MIT"
